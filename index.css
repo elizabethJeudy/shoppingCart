@@ -1,7 +1,8 @@
-html, body {
+html,
+body {
     margin: 0;
     padding: 0;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Gaegu";
     background-color: #EEF0F4;
     color: #432000;
     user-select: none;
@@ -27,7 +28,7 @@ input {
     border-radius: 8px;
     font-size: 20px;
     text-align: center;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Gaegu";
     margin: 10px 0;
 }
 
@@ -39,7 +40,7 @@ button {
     border-radius: 8px;
     font-size: 20px;
     text-align: center;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Gaegu";
 }
 
 button:hover {
