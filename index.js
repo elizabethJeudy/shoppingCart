@@ -44,7 +44,7 @@ onValue(shoppingListInDB, function (snapshot) {
 		shoppingListEl.innerHTML = "No items here... yet";
 	}
 });
-
+``;
 function clearShoppingListEl() {
 	shoppingListEl.innerHTML = "";
 }
